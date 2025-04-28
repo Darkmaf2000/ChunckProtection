@@ -1,0 +1,9 @@
+name: ChunkProtection
+version: 1.0
+main: me.tuoNome.chunkprotection.ChunkProtection
+api-version: 1.20
+commands:
+  claim:
+    description: Claim the current chunk
+  unclaim:
+    description: Unclaim the current chunk
